@@ -1,6 +1,5 @@
-# Primeiro Repositório
- Aprendendo a utilizar o Git e GitHub
+#Atualizando e testando a linguagem Markdown no GitHub
 
- Testando linhas adicionadas pelo VScode!
+este repositório é para **testes**
 
- Testando linhas adicionadas remotamente pelo site do GH!
+update *README*
