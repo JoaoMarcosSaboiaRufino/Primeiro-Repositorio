@@ -46,3 +46,19 @@ palavras em *italico* ficam entre 1 asterisco => *Italico*
 Para criar um link é simples, basta digitar __(texto que vai ancorar o link) [URL do link]__
 
 Esse é meu [GitHub](https://github.com/JoaoMarcosSaboiaRufino)
+
+1. __Fazendo uma tabela__
+    Jogo | Gostei? | Eu ainda jogo?
+   ---|---|---
+   Free Fire | Sim/Não | Sim
+   League of Legends | Sim | Sim
+   Honor of Kings | Sim | sim
+   Brawl Stars | Sim | Sim
+   Roblox | Sim | Sim
+
+
+isso são variaveis no JS
+```
+var nome = joao
+var idade = 15
+```
