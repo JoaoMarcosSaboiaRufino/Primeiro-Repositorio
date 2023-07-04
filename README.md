@@ -62,3 +62,8 @@ isso são variaveis no JS
 var nome = joao
 var idade = 15
 ```
+
+
+__Inserindo uma imagem minha só pra finalizar__
+
+![file](https://github.com/JoaoMarcosSaboiaRufino/Primeiro-Repositorio/assets/137967581/dfc84670-563b-403f-8691-0388528ec055)
